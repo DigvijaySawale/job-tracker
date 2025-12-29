@@ -67,3 +67,5 @@ end
 
 
 gem "mysql2", "~> 0.5"
+
+gem "devise", "~> 4.9"
